@@ -11,7 +11,7 @@
   "dependencies": {
     "@expo/metro-runtime": "~3.2.1",
     "@react-three/drei": "^9.109.5",
-    "@react-three/fiber": "^8.16.8",
+    "@react-three/fiber": "^8.17.7",
     "expo": "~51.0.26",
     "expo-gl": "~14.0.2",
     "expo-status-bar": "~1.12.1",
